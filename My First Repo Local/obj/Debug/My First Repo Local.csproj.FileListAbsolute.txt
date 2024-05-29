@@ -1,0 +1,7 @@
+C:\Users\HP\OneDrive\Desktop\Practice\My First Repo Local\My First Repo Local\bin\Debug\My First Repo Local.exe.config
+C:\Users\HP\OneDrive\Desktop\Practice\My First Repo Local\My First Repo Local\bin\Debug\My First Repo Local.exe
+C:\Users\HP\OneDrive\Desktop\Practice\My First Repo Local\My First Repo Local\bin\Debug\My First Repo Local.pdb
+C:\Users\HP\OneDrive\Desktop\Practice\My First Repo Local\My First Repo Local\obj\Debug\My First Repo Local.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Practice\My First Repo Local\My First Repo Local\obj\Debug\My First Repo Local.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Practice\My First Repo Local\My First Repo Local\obj\Debug\My First Repo Local.exe
+C:\Users\HP\OneDrive\Desktop\Practice\My First Repo Local\My First Repo Local\obj\Debug\My First Repo Local.pdb
